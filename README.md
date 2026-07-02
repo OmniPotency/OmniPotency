@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Haider Jalil Malik 👋</h1>
+<h1 align="center">Hi, I'm Haider Jalil👋</h1>
 
 <p align="center">
 I'm a pragmatic full-stack developer who builds with intention — clean, functional, and secure by design. Constantly sharpening my craft and deepening my knowledge of cybersecurity every day.
