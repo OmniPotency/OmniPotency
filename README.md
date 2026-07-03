@@ -16,3 +16,6 @@ I'm a pragmatic full-stack developer who builds with intention — clean, functi
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OmniPotency&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
