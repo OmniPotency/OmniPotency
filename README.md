@@ -5,7 +5,7 @@ I'm a pragmatic full-stack developer who builds with intention — clean, functi
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Problem+Solver;Web+%26+Software+Designer;Cybersecurity+Apprentice+%28Air+University%29;Building%2C+Break-Proofing%2C+Providing+%3B%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Problem+Solver;Web+%26+Software+Designer;Cybersecurity+Apprentice+%28Air+University%29;Building%2C+Break-Proofing%2C+Providing" alt="Typing SVG" />
 </p>
 
 <p align="center">
